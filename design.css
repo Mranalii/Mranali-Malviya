@@ -235,7 +235,7 @@ section .title::after {
       hsla(0, 3%, 6%, 0.678),
       rgba(12, 10, 22, 0.863)
     ),
-    url("./logo-x.png/wallpaper-with-dark-wave-design_23-2148387063.jpg");
+    url("/logo-x.png/wallpaper-with-dark-wave-design_23-2148387063.jpg");
   /* no-repeat center */
   height: 100vh;
   color: #fff;
